@@ -1,0 +1,142 @@
+tld,title,description,target,restriction
+app.br,Genéricos,Aplicativos,Para pessoas físicas ou jurídicas,
+art.br,Genéricos,"Artes: música, pintura, folclore",Para pessoas físicas ou jurídicas,
+com.br,Genéricos,Atividades comerciais,Para pessoas físicas ou jurídicas,
+dev.br,Genéricos,Desenvolvedores e Plataformas de Desenvolvimento,Para pessoas físicas ou jurídicas,
+eco.br,Genéricos,Atividades com foco eco-ambiental,Para pessoas físicas ou jurídicas,
+emp.br,Genéricos,Pequenas e micro-empresas,Para pessoas físicas ou jurídicas,
+log.br,Genéricos,Transportes e Logistica,Para pessoas físicas ou jurídicas,
+net.br,Genéricos,Atividades comerciais,Para pessoas físicas ou jurídicas,
+ong.br,Genéricos,Atividades não governamentais individuais ou associativas,Para pessoas físicas ou jurídicas,
+seg.br,Genéricos,Segurança,Para pessoas físicas ou jurídicas,
+tec.br,Genéricos,Tecnologia,Para pessoas físicas ou jurídicas,
+edu.br,Universidades,Instituições de ensino superior,,
+blog.br,Pessoas Físicas,Web logs,,
+flog.br,Pessoas Físicas,Foto logs,,
+nom.br,Pessoas Físicas,Pessoas Físicas,,
+vlog.br,Pessoas Físicas,Vídeo logs,,
+wiki.br,Pessoas Físicas,Páginas do tipo 'wiki',,
+adm.br,Profissionais liberais,Administradores,Somente para pessoas físicas,Sem restrição
+adv.br,Profissionais liberais,Advogados,Somente para pessoas físicas,Sem restrição
+arq.br,Profissionais liberais,Arquitetos,Somente para pessoas físicas,Sem restrição
+ato.br,Profissionais liberais,Atores,Somente para pessoas físicas,Sem restrição
+bib.br,Profissionais liberais,Bibliotecários / Biblioteconomistas,Somente para pessoas físicas,Sem restrição
+bio.br,Profissionais liberais,Biólogos,Somente para pessoas físicas,Sem restrição
+bmd.br,Profissionais liberais,Biomédicos,Somente para pessoas físicas,Sem restrição
+cim.br,Profissionais liberais,Corretores,Somente para pessoas físicas,Sem restrição
+cng.br,Profissionais liberais,Cenógrafos,Somente para pessoas físicas,Sem restrição
+cnt.br,Profissionais liberais,Contadores,Somente para pessoas físicas,Sem restrição
+coz.br,Profissionais liberais,Profissionais de Gastronomia,Somente para pessoas físicas,Sem restrição
+des.br,Profissionais liberais,"""Designers"" e Desenhistas",Somente para pessoas físicas,Sem restrição
+det.br,Profissionais liberais,Detetives / Investigadores Particulares,Somente para pessoas físicas,Sem restrição
+ecn.br,Profissionais liberais,Economistas,Somente para pessoas físicas,Sem restrição
+enf.br,Profissionais liberais,Profissionais de Enfermagem,Somente para pessoas físicas,Sem restrição
+eng.br,Profissionais liberais,Engenheiros,Somente para pessoas físicas,Sem restrição
+eti.br,Profissionais liberais,Especialista em Tecnologia da Informação,Somente para pessoas físicas,Sem restrição
+fnd.br,Profissionais liberais,Fonoaudiólogos,Somente para pessoas físicas,Sem restrição
+fot.br,Profissionais liberais,Fotógrafos,Somente para pessoas físicas,Sem restrição
+fst.br,Profissionais liberais,Fisioterapeutas,Somente para pessoas físicas,Sem restrição
+geo.br,Profissionais liberais,Geólogos,Somente para pessoas físicas,Sem restrição
+ggf.br,Profissionais liberais,Geógrafos,Somente para pessoas físicas,Sem restrição
+jor.br,Profissionais liberais,Jornalistas,Somente para pessoas físicas,Sem restrição
+lel.br,Profissionais liberais,Leiloeiros,Somente para pessoas físicas,Sem restrição
+mat.br,Profissionais liberais,Matemáticos e Estatísticos,Somente para pessoas físicas,Sem restrição
+med.br,Profissionais liberais,Médicos,Somente para pessoas físicas,Sem restrição
+mus.br,Profissionais liberais,Músicos,Somente para pessoas físicas,Sem restrição
+not.br,Profissionais liberais,Notários,Somente para pessoas físicas,Sem restrição
+ntr.br,Profissionais liberais,Nutricionistas,Somente para pessoas físicas,Sem restrição
+odo.br,Profissionais liberais,Dentistas,Somente para pessoas físicas,Sem restrição
+ppg.br,Profissionais liberais,Publicitários e profissionais da área de propaganda e marketing,Somente para pessoas físicas,Sem restrição
+pro.br,Profissionais liberais,Professores,Somente para pessoas físicas,Sem restrição
+psc.br,Profissionais liberais,Psicólogos,Somente para pessoas físicas,Sem restrição
+qsl.br,Profissionais liberais,Rádio amadores,Somente para pessoas físicas,Sem restrição
+rep.br,Profissionais liberais,Representantes Comerciais,Somente para pessoas físicas,Sem restrição
+slg.br,Profissionais liberais,Sociólogos,Somente para pessoas físicas,Sem restrição
+taxi.br,Profissionais liberais,Taxistas,Somente para pessoas físicas,Sem restrição
+teo.br,Profissionais liberais,Teólogos,Somente para pessoas físicas,Sem restrição
+trd.br,Profissionais liberais,Tradutores,Somente para pessoas físicas,Sem restrição
+vet.br,Profissionais liberais,Veterinários,Somente para pessoas físicas,Sem restrição
+zlg.br,Profissionais liberais,Zoólogos,Somente para pessoas físicas,Sem restrição
+leilao.br,Profissionais liberais,Leiloeiros,Somente para pessoas físicas,Com restrição
+9guacu.br,Cidades,Nova Iguaçu,Para pessoas físicas ou jurídicas,
+abc.br,Cidades,Região ABC Paulista,Para pessoas físicas ou jurídicas,
+aju.br,Cidades,Aracaju,Para pessoas físicas ou jurídicas,
+anani.br,Cidades,Ananindeua,Para pessoas físicas ou jurídicas,
+aparecida.br,Cidades,Aparecida,Para pessoas físicas ou jurídicas,
+barueri.br,Cidades,Barueri,Para pessoas físicas ou jurídicas,
+belem.br,Cidades,Belém,Para pessoas físicas ou jurídicas,
+bhz.br,Cidades,Belo Horizonte,Para pessoas físicas ou jurídicas,
+boavista.br,Cidades,Boa Vista,Para pessoas físicas ou jurídicas,
+bsb.br,Cidades,Brasília,Para pessoas físicas ou jurídicas,
+campinagrande.br,Cidades,Campina Grande,Para pessoas físicas ou jurídicas,
+campinas.br,Cidades,Campinas,Para pessoas físicas ou jurídicas,
+caxias.br,Cidades,Caxias,Para pessoas físicas ou jurídicas,
+contagem.br,Cidades,Contagem,Para pessoas físicas ou jurídicas,
+cuiaba.br,Cidades,Cuiabá,Para pessoas físicas ou jurídicas,
+curitiba.br,Cidades,Curitiba,Para pessoas físicas ou jurídicas,
+feira.br,Cidades,Feira de Santana,Para pessoas físicas ou jurídicas,
+floripa.br,Cidades,Florianópolis,Para pessoas físicas ou jurídicas,
+fortal.br,Cidades,Fortaleza,Para pessoas físicas ou jurídicas,
+foz.br,Cidades,Foz do Iguaçu,Para pessoas físicas ou jurídicas,
+goiania.br,Cidades,Goiânia,Para pessoas físicas ou jurídicas,
+gru.br,Cidades,Guarulhos,Para pessoas físicas ou jurídicas,
+jab.br,Cidades,Jaboatão dos Guararapes,Para pessoas físicas ou jurídicas,
+jampa.br,Cidades,João Pessoa,Para pessoas físicas ou jurídicas,
+jdf.br,Cidades,Juiz de Fora,Para pessoas físicas ou jurídicas,
+joinville.br,Cidades,Joinville,Para pessoas físicas ou jurídicas,
+londrina.br,Cidades,Londrina,Para pessoas físicas ou jurídicas,
+macapa.br,Cidades,Macapá,Para pessoas físicas ou jurídicas,
+maceio.br,Cidades,Maceió,Para pessoas físicas ou jurídicas,
+manaus.br,Cidades,Manaus,Para pessoas físicas ou jurídicas,
+maringa.br,Cidades,Maringá,Para pessoas físicas ou jurídicas,
+morena.br,Cidades,Campo Grande,Para pessoas físicas ou jurídicas,
+natal.br,Cidades,Natal,Para pessoas físicas ou jurídicas,
+niteroi.br,Cidades,Niterói,Para pessoas físicas ou jurídicas,
+osasco.br,Cidades,Osasco,Para pessoas físicas ou jurídicas,
+palmas.br,Cidades,Palmas,Para pessoas físicas ou jurídicas,
+poa.br,Cidades,Porto Alegre,Para pessoas físicas ou jurídicas,
+pvh.br,Cidades,Porto Velho,Para pessoas físicas ou jurídicas,
+recife.br,Cidades,Recife,Para pessoas físicas ou jurídicas,
+ribeirao.br,Cidades,Ribeirão,Para pessoas físicas ou jurídicas,
+rio.br,Cidades,Rio de Janeiro,Para pessoas físicas ou jurídicas,
+riobranco.br,Cidades,Rio Branco,Para pessoas físicas ou jurídicas,
+riopreto.br,Cidades,São José do Rio Preto,Para pessoas físicas ou jurídicas,
+salvador.br,Cidades,Salvador,Para pessoas físicas ou jurídicas,
+sampa.br,Cidades,São Paulo,Para pessoas físicas ou jurídicas,
+santamaria.br,Cidades,Santa Maria,Para pessoas físicas ou jurídicas,
+santoandre.br,Cidades,Santo André,Para pessoas físicas ou jurídicas,
+saobernardo.br,Cidades,São Bernardo do Campo,Para pessoas físicas ou jurídicas,
+saogonca.br,Cidades,São Gonçalo,Para pessoas físicas ou jurídicas,
+sjc.br,Cidades,São José dos Campos,Para pessoas físicas ou jurídicas,
+slz.br,Cidades,São Luis,Para pessoas físicas ou jurídicas,
+sorocaba.br,Cidades,Sorocaba,Para pessoas físicas ou jurídicas,
+the.br,Cidades,Teresina,Para pessoas físicas ou jurídicas,
+udi.br,Cidades,Uberlândia,Para pessoas físicas ou jurídicas,
+vix.br,Cidades,Vitória,Para pessoas físicas ou jurídicas,
+agr.br,Pessoas Jurídicas,"Empresas agrícolas, fazendas",,Sem restrição
+esp.br,Pessoas Jurídicas,Esporte em geral,,Sem restrição
+etc.br,Pessoas Jurídicas,Empresas que não se enquadram nas outras categorias,,Sem restrição
+far.br,Pessoas Jurídicas,Farmácias e drogarias,,Sem restrição
+imb.br,Pessoas Jurídicas,Imobiliárias,,Sem restrição
+ind.br,Pessoas Jurídicas,Indústrias,,Sem restrição
+inf.br,Pessoas Jurídicas,"Meios de informação (rádios, jornais, bibliotecas, etc..)",,Sem restrição
+radio.br,Pessoas Jurídicas,Empresas que queiram enviar áudio pela rede,,Sem restrição
+rec.br,Pessoas Jurídicas,"Atividades de entretenimento, diversão, jogos, etc...",,Sem restrição
+srv.br,Pessoas Jurídicas,Empresas prestadoras de serviços,,Sem restrição
+tmp.br,Pessoas Jurídicas,"Eventos temporários, como feiras e exposições",,Sem restrição
+tur.br,Pessoas Jurídicas,Empresas da área de turismo,,Sem restrição
+tv.br,Pessoas Jurídicas,Empresas de radiodifusão ou transmissão via Internet de sons e imagens,,Sem restrição
+am.br,Pessoas Jurídicas,Empresas de radiodifusão sonora,,Com restrição
+coop.br,Pessoas Jurídicas,Cooperativas,,Com restrição
+fm.br,Pessoas Jurídicas,Empresas de radiodifusão sonora,,Com restrição
+g12.br,Pessoas Jurídicas,Instituições de ensino de primeiro e segundo grau,,Com restrição
+gov.br,Pessoas Jurídicas,Instituições do governo federal,,Com restrição
+mil.br,Pessoas Jurídicas,Forças Armadas Brasileiras,,Com restrição
+org.br,Pessoas Jurídicas,Instituições não governamentais sem fins lucrativos,,Com restrição
+psi.br,Pessoas Jurídicas,Provedores de serviço Internet,,Com restrição
+b.br,Pessoas Jurídicas,Bancos,,DNSSEC obrigatório
+def.br,Pessoas Jurídicas,Defensorias Públicas,,DNSSEC obrigatório
+jus.br,Pessoas Jurídicas,Instituições do Poder Judiciário,,DNSSEC obrigatório
+leg.br,Pessoas Jurídicas,Instituições do Poder Legislativo,,DNSSEC obrigatório
+mp.br,Pessoas Jurídicas,Instituições do Ministério Público,,DNSSEC obrigatório
+tc.br,Pessoas Jurídicas,Tribunais de Contas,,DNSSEC obrigatório
